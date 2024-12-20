@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Online_QuizeSystem/src/ui/QuizAppGUI.java</file>
+            <file>file:/C:/Online_QuizeSystem/src/patterns/PrototypeMultipleChoiceQuestion.java</file>
+            <file>file:/C:/Online_QuizeSystem/src/models/User.java</file>
+            <file>file:/C:/Online_QuizeSystem/src/models/QuestionManager.java</file>
+            <file>file:/C:/Online_QuizeSystem/src/models/ScoreManager.java</file>
+            <file>file:/C:/Online_QuizeSystem/src/models/Question.java</file>
+            <file>file:/C:/Online_QuizeSystem/src/patterns/QuestionAdapter.java</file>
+            <file>file:/C:/Online_QuizeSystem/src/patterns/QuestionBuilder.java</file>
+            <file>file:/C:/Online_QuizeSystem/src/models/TrueFalseQuestion.java</file>
+            <file>file:/C:/Online_QuizeSystem/src/patterns/QuestionFactory.java</file>
+            <file>file:/C:/Online_QuizeSystem/src/online_quizesystem/Online_QuizeSystem.java</file>
+            <file>file:/C:/Online_QuizeSystem/src/models/MultipleChoiceQuestion.java</file>
+        </group>
+    </open-files>
+</project-private>
